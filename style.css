@@ -50,3 +50,32 @@ p {
 .about h1 {
   font-size: 50px;
 }
+.myRecipies {
+  text-align: center;
+}
+.myRecipies h1 {
+  font-size: 50px;
+}
+.myRecipies h3 {
+  font-weight: 300;
+  font-size: 22px;
+}
+.sectionThree {
+  display: flex;
+}
+.recipies {
+  width: 27%;
+  margin-left: 4%;
+  margin-right: 4%;
+  padding: 15px;
+  box-shadow: 10px 10px 50px gray;
+  border-radius: 30px;
+}
+.sectionThree {
+  display: flex;
+}
+.recipies img {
+  height: 250px;
+  width: 350px;
+  padding: 10px;
+}

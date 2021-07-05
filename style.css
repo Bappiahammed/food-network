@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.section1andsection2 {
+  display: flex;
+  margin-left: 20px;
+  padding-left: 50px;
+  margin-top: 50px;
+}
+span {
+  color: olivedrab;
+}
+p {
+  font-size: 30px;
+}
+.continer1 h1 {
+  font-size: 60px;
+}
+.btn {
+  padding: 20px 40px;
+  background-image: linear-gradient(orange, red);
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 20px;
+}

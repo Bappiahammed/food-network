@@ -82,10 +82,12 @@ p {
 }
 .recipies h1 {
   font-size: 50px;
+  padding-left: 10px;
 }
 .recipies h3 {
   font-size: 25px;
   font-weight: 300;
+  padding-left: 10px;
 }
 footer {
   height: 300px;

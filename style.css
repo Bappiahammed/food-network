@@ -89,6 +89,36 @@ p {
   font-weight: 300;
   padding-left: 10px;
 }
+.bnoseSection h1 {
+  text-align: center;
+  font-size: 60px;
+  color: tomato;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.Testimonials {
+  display: flex;
+}
+.testimonials {
+  display: flex;
+}
+.testimonialsColom {
+  width: 27%;
+  margin-left: 4%;
+  margin-right: 3%;
+  padding: 15px;
+  box-shadow: 10px 10px 50px rgb(10, 255, 10);
+  border-radius: 30px;
+}
+.testimonialsColom img {
+  padding-left: 75px;
+  border-radius: 50%;
+}
+.testimonialsColom h1 {
+  text-align: center;
+  font-size: 45px;
+}
+
 footer {
   height: 300px;
   text-align: center;
